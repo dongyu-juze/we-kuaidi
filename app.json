@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/order/order"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#e2e2e2",
+    "navigationBarTitleText": "快递查询",
+    "navigationBarTextStyle": "black"
+  }
+}

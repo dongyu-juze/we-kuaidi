@@ -1,0 +1,7 @@
+<!--pages/order/order.wxml-->
+<view class="order-list">
+  <block wx:for="{{orders}}">
+    <view class="order-time"> {{item.ftime}}: </view>
+    <view class = "order-txt"> {{item.context}} </view>
+  </block>
+</view>
